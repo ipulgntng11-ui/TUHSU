@@ -161,6 +161,12 @@
       "password": "1",
       "createdAt": "2025-10-26T12:54:39.068Z",
       "expireTime": "30"
+    },
+    {
+      "username": "admin",
+      "password": "1",
+      "createdAt": "2025-10-26T13:12:55.029Z",
+      "expireTime": "1"
     }
   ]
 }
